@@ -1,6 +1,6 @@
 # Android Support Library v4
 
-revision 23.2.1, `1422188 bytes`
+revision 24.1.1, `971884 bytes`
 
 ## Contents
 
